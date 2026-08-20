@@ -7,7 +7,7 @@ This script models the membrane fouling behavior in a Reverse Osmosis (RO) desal
 To transition from reactive maintenance to predictive scheduling, minimizing downtime and optimizing chemical reagent consumption during Clean-In-Place (CIP) procedures.
 
 ## Technical Stack
-*   **Language:** Python 3.x
+*   **Language:** Python 3.8
 *   **Libraries:** `scipy.optimize` (fsolve for root finding), `numpy` (polynomial fitting), `pandas`, `matplotlib.pyplot`.
 
 ## Methodology
